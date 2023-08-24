@@ -39,12 +39,12 @@ console.log(Conta1.sacarSaldo(200));
 let Conta2=new Conta("Maria",1000);
 console.log(Conta2.consultarSaldo());
 console.log(Conta2.depositoSaldo(500));
-console.log(Conta2.sacarSaldo(200));
+console.log(Conta2.sacarSaldo(300));
 
 let Conta3=new Conta("Julia",1000);
 console.log(Conta3.consultarSaldo());
 console.log(Conta3.depositoSaldo(500));
-console.log(Conta3.sacarSaldo(200));
+console.log(Conta3.sacarSaldo(400));
 
 
 
